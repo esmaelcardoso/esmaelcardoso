@@ -2,7 +2,7 @@
 
 **I'm a self-taught Full Stack Developer. I do open source!**
 
-| <a href="[https://github.com/esmaelcardoso](https://github.com/esmaelcardoso)"><img align="center" src="https://github-readme-stats.vercel.app/api?username=esmaelcardoso&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="esmaelcardoso's github stats" /></a> | <a href="[https://github.com/esmaelcardoso](https://github.com/esmaelcardoso)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelcardoso&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href=#><img align="center" src="https://github-readme-stats.vercel.app/api?username=esmaelcardoso&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="esmaelcardoso's github stats" /></a> | <a href=#><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelcardoso&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ##
