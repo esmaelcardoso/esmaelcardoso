@@ -2,6 +2,12 @@
 
 **I'm a self-taught Full Stack Developer. I do open source!**
 
+const EsmaelCardoso = {
+  Nome: "ESMAEL CARDOSO",
+  Area: "DESENVOLVIMENTO WEB",
+  Linguagens: [".NET", "JavaScript", "Etc."],
+};
+
 | <a href=#><img align="center" src="https://github-readme-stats.vercel.app/api?username=esmaelcardoso&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="esmaelcardoso's github stats" /></a> | <a href=#><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaelcardoso&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
