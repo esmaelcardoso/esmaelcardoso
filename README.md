@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 **I'm a self-taught Full Stack Developer. I do open source!**
+**Improving 1% Everyday!**
 
 ```javascript
 const express = require("express");
