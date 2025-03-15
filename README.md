@@ -3,19 +3,19 @@
 **I'm a self-taught Full Stack Developer. I do open source!**
 
 ```javascript
-const express = require('express')
-const app = express()
-app.use(express.json())
+const express = require("express");
+const app = express();
+app.use(express.json());
 
-const webDeveloper = {name:"EsmaelCardoso", stack:"Full-Stack-Developer"}
+const webDeveloper = {name:"EsmaelCardoso", stack:"Full-Stack-Developer"};
 
 app.get('/', (req, res) => {
-  return res.json(webDeveloper)
-}),
+  return res.json(webDeveloper);
+});
 
 app.listen(3000, () =>{
-  console.log("Initing code...")
-})
+  console.log("Initing code...");
+});
 
 ```
 
