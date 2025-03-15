@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
   return res.json(webDeveloper);
 });
 
-app.listen(3000, () =>{
+app.listen(3000, () => {
   console.log("Initing code...");
 });
 
