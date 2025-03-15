@@ -2,12 +2,21 @@
 
 **I'm a self-taught Full Stack Developer. I do open source!**
 
-```JavaScript
-const EsmaelCardoso = {
-  Nome: "ESMAEL CARDOSO",
-  Area: "DESENVOLVIMENTO WEB",
-  Linguagens: [".NET", "JavaScript", "Etc."],
-};
+```javascript
+const express = require('express')
+const app = express()
+app.use(express.json())
+
+const webDeveloper = {name:"EsmaelCardoso", stack:"Full-Stack-Developer"}
+
+app.get('/', (req, res) => {
+  return res.json(webDeveloper)
+}),
+
+app.listen(3000, () =>{
+  console.log("Initing code...")
+})
+
 ```
 
 ----
